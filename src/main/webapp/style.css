@@ -21,6 +21,7 @@ body {
   background: url(https://github.com/CanisCoder/jenkins-java-project/blob/master/src/netflixbackground.jpg?raw=true) center/cover;
   opacity: 0.5;
   z-index: -1;
+  
 }
 
 nav {
